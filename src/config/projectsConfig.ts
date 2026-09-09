@@ -15,14 +15,14 @@ export const projectsConfig: ProjectsConfig = withUserConfig("projects", {
 	enable: true,
 	categories: [
 		{
-			key: "theme",
-			label: "Theme",
-			icon: "material-symbols:palette-outline-rounded",
+			key: "application",
+			label: "应用开发",
+			icon: "material-symbols:deployed-code-outline-rounded",
 		},
 		{
-			key: "android",
-			label: "Android",
-			icon: "material-symbols:android-rounded",
+			key: "learning",
+			label: "学习与校园",
+			icon: "material-symbols:school-outline-rounded",
 		},
 	],
 	// disabledKeys: [],

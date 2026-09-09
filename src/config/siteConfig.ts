@@ -12,8 +12,8 @@ import { withUserConfig } from "../utils/config-overlay.ts";
 export const siteConfig: SiteConfig = withUserConfig("site", {
 	site: "https://lingfengalg.github.io/",
 	base: "/",
-	title: "Lingfeng's Blog",
-	subtitle: "记录代码、生活与喜欢的一切",
+	title: "Lingfeng 的博客",
+	subtitle: "北京邮电大学 · 软件开发 · 学习与生活",
 	// 电脑端顶栏标题与导航内容区域："left" 左对齐，"center" 居中。
 	topAppBar: {
 		contentAlign: "center",
@@ -70,13 +70,13 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 		homeText: {
 			// 仅在首页 Banner 中显示，标题与副标题会上下居中排列。
 			enable: true,
-			title: "Lingfeng's Blog",
+			title: "Lingfeng 的博客",
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"在北京邮电大学，记录学习与创造",
+				"让想法成为代码，让代码成为作品",
+				"保持好奇，持续探索",
+				"写下技术，也收藏生活",
+				"今天也在认真构建新的可能",
 			],
 			typewriter: {
 				// 副标题逐字显示；关闭后直接显示完整副标题。

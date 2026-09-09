@@ -1,26 +1,33 @@
-# About Shirone
+# 关于我
 
-Welcome to the demo site of **Shirone** (白音) — an expressive, anime-inspired blog theme built on the **Material 3 Expressive (M3E)** design system.
+你好，我是 **Lingfengalg**，目前在 **北京邮电大学** 学习。
 
-::github{repo="LyraVoid/Shirone"}
+我喜欢把学习中遇到的问题做成真正可用的工具，也会在这里整理开发笔记、项目复盘和校园生活。这个博客是我在互联网上的一块个人空间，希望留下那些值得长期保存的思考与作品。
 
-## ✦ Design & Philosophy
+::github{repo="Lingfengalg/StudyOS"}
 
-Shirone aims to combine the warmth of expressive anime aesthetics with the rigor of modern web engineering:
+## 技术方向
 
-- **Dynamic Chromatic Spell**: Full dynamic HCT palette generation responding seamlessly to light/dark modes and user preferences with zero layout shifts.
-- **Seamless Shell Navigation**: Persistent application shell driven by Swup for continuous music playback, smooth page transitions, and preserved state.
-- **Rich Story Grimoire**: Markdown and MDX authoring with KaTeX math, Mermaid diagrams, interactive admonitions, expressive code blocks, and adaptive image galleries.
-- **Zero Extra Burden**: Optional integrations (comments, analytics, music widgets) load dynamically on demand — zero DOM footprint and zero bundle overhead when disabled.
+- **客户端开发**：使用 Flutter 与 Dart 构建桌面端应用，关注交互体验、状态管理和跨平台工程化。
+- **后端开发**：使用 Python、FastAPI 和 SQLite 设计本地服务、REST API 与数据存储。
+- **系统基础**：具备 C、C++、CMake 等基础，持续学习计算机系统与软件工程知识。
+- **AI 应用**：关注大模型在学习工具中的落地，包括 OpenAI 兼容接口、AI Agent、OCR 与结构化数据处理。
+- **工程实践**：使用 Git、GitHub Actions、自动化测试和持续集成维护项目质量。
 
-## ✦ Tech Stack
+## 北京邮电大学
 
-- **Framework**: [Astro 7](https://astro.build/) & [Svelte 5](https://svelte.dev/) (Runes-driven islands)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/) & [Stylus](https://stylus-lang.com/)
-- **Design Standard**: [Material 3 Expressive](https://m3.material.io/)
-- **Typography**: Outfit & Yozai (悠哉圆体) with automated build-time subsetting
-- **Search Engine**: [Pagefind](https://pagefind.app/) offline full-text search
+北京邮电大学是我学习计算机知识、探索技术方向和打磨项目能力的重要起点。课程学习之外，我也在持续推进个人项目，并通过开源仓库沉淀学习资料与实践经验。
 
-## ✦ Credits
+## 代表项目
 
-- **Font**: [Yozai Font (悠哉字体)](https://github.com/lxgw/yozai-font) by [lxgw](https://github.com/lxgw)
+### StudyOS
+
+桌面优先的综合学习系统，采用 **Flutter Windows 客户端 + FastAPI 本地后端 + SQLite 数据库**。项目围绕今日学习、AI 助手、错题整理、成绩分析、备考专项与复盘计划组织功能。
+
+### BUPT-SCS-Courses
+
+北京邮电大学计算机学院选修课资料与经验指引，希望让课程信息更容易检索和参考。
+
+## 关于本站
+
+本站使用 [Shirone](https://github.com/LyraVoid/Shirone) 构建，并通过 GitHub Pages 自动部署。整体采用 Material 3 Expressive 设计语言，同时保留了我喜欢的二次元视觉元素。

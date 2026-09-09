@@ -15,18 +15,23 @@ export const skillsConfig: SkillsConfig = withUserConfig("skills", {
 	enable: true,
 	categories: [
 		{
-			key: "frontend",
-			label: "Frontend",
-			icon: "material-symbols:web-rounded",
+			key: "client",
+			label: "客户端开发",
+			icon: "material-symbols:devices-rounded",
 		},
 		{
 			key: "backend",
-			label: "Backend",
+			label: "后端与数据",
 			icon: "material-symbols:dns-rounded",
 		},
 		{
+			key: "system",
+			label: "系统与基础",
+			icon: "material-symbols:memory-rounded",
+		},
+		{
 			key: "tooling",
-			label: "Tooling",
+			label: "工程工具",
 			icon: "material-symbols:construction-rounded",
 		},
 	],
